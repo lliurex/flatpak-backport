@@ -1,3 +1,9 @@
+flatpak (1.16.6-1-lliurex1) noble; urgency=medium
+
+  * Non-maintainer upload.
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Tue, 10 Nov 2026 14:42:06 +0100
+
 flatpak (1.16.6-1) unstable; urgency=high
 
   * New upstream stable release
